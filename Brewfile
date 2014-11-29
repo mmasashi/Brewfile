@@ -13,6 +13,7 @@ tap caskroom/homebrew-cask
 tap sanemat/font
 
 # install brew packages
+install homebrew/dupes/apple-gcc42
 install ack
 install ant
 #install apple-gcc42 # unavailable on yosemite

@@ -11,12 +11,12 @@ update
 # Add Repository
 tap caskroom/homebrew-cask
 tap sanemat/font
+tap homebrew/dupes
 
 # install brew packages
-install homebrew/dupes/apple-gcc42
 install ack
 install ant
-#install apple-gcc42 # unavailable on yosemite
+install apple-gcc42
 install archey
 install autoconf
 install bazaar

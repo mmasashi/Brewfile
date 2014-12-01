@@ -79,6 +79,7 @@ install rbenv
 install readline
 #install --vim-powerline ricty  # unavailable on yosemite
 install ruby-build
+install rsync
 #install screen    # unavailable on yosemite
 install shunit2
 install sqlite

@@ -129,7 +129,6 @@ cask install vmware-fusion
 # Mobile
 cask install iexplorer
 cask install android-file-transfer
-cask install android-studio
 
 # Reader
 cask install kobo
